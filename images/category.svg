@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.375" height="20.091" viewBox="0 0 17.375 20.091">
+  <g id="stethoscope" transform="translate(-35.251 0.25)">
+    <g id="Group_36715" data-name="Group 36715" transform="translate(35.501 0.763)">
+      <g id="Group_36714" data-name="Group 36714">
+        <path id="Path_38401" data-name="Path 38401" d="M46.226,19.932H43.938v1.43h1.573v2.693a4.29,4.29,0,1,1-8.58,0V21.362h1.525v-1.43h-2.24a.715.715,0,0,0-.715.715v3.408a5.72,5.72,0,1,0,11.44,0V20.647A.715.715,0,0,0,46.226,19.932Z" transform="translate(-35.501 -19.932)" fill="#d4af38" stroke="#d4af38" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_36717" data-name="Group 36717" transform="translate(40.435 9.915)">
+      <g id="Group_36716" data-name="Group 36716">
+        <path id="Path_38402" data-name="Path 38402" d="M173.014,260.4v3.384a3.575,3.575,0,0,1-7.15,0v-4.671h-1.43v4.671a5.005,5.005,0,1,0,10.01,0V260.4Z" transform="translate(-164.434 -259.114)" fill="#d4af38" stroke="#d4af38" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_36719" data-name="Group 36719" transform="translate(47.084 6.578)">
+      <g id="Group_36718" data-name="Group 36718">
+        <path id="Path_38403" data-name="Path 38403" d="M340.862,171.912a2.646,2.646,0,1,0,2.646,2.646A2.648,2.648,0,0,0,340.862,171.912Zm0,3.861a1.215,1.215,0,1,1,1.216-1.216A1.217,1.217,0,0,1,340.862,175.773Z" transform="translate(-338.216 -171.912)" fill="#d4af38" stroke="#d4af38" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_36721" data-name="Group 36721" transform="translate(37.718)">
+      <g id="Group_36720" data-name="Group 36720">
+        <path id="Path_38404" data-name="Path 38404" d="M94.143,0a.715.715,0,0,0-.715.715V2.24a.715.715,0,1,0,1.43,0V.715A.715.715,0,0,0,94.143,0Z" transform="translate(-93.428)" fill="#d4af38" stroke="#d4af38" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_36723" data-name="Group 36723" transform="translate(43.247)">
+      <g id="Group_36722" data-name="Group 36722">
+        <path id="Path_38405" data-name="Path 38405" d="M238.649,0a.715.715,0,0,0-.715.715V2.24a.715.715,0,1,0,1.43,0V.715A.715.715,0,0,0,238.649,0Z" transform="translate(-237.934)" fill="#d4af38" stroke="#d4af38" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

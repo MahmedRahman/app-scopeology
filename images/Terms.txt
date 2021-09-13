@@ -1,0 +1,118 @@
+
+<h1>User Agreement</h1>
+
+This user agreement is a contract between you and Scopeology, and applies to your subscription to and use of products and services available through www.Scopeology.com (collectively the "services"). Purchase of services indicates an implicit agreement with the Terms of Use. If you do not agree or do not intend to abide by these stated Terms of Use, please refrain from purchase or use of Scopeology services. In this agreement, "you" and "your" refers to any person or entity subscribing to and/or using the Service ("Users"). “Service” refers to any current or future products (paid or free) offered by Scopeology. Unless otherwise stated, " Scopeology," "we," and "our" will refer collectively to Scopeology.
+
+PLEASE READ THE FOLLOWING TERMS, CONDITIONS, AND DISCLAIMERS IN THIS AGREEMENT CAREFULLY BEFORE SUBSCRIBING TO OUR MATERIAL. AGREEING TO THE TERMS OF USE INCLUDES THE FOLLOWING:
+
+License In consideration of and subject to your payment of the appropriate subscription fee for the services you subscribe to, and your agreement to and compliance with the terms and conditions set forth in this agreement, Scopeology grants to you a non-exclusive, non-sub licensable, non-transferable license, and right to use and access the Scopeology content (the "licensed materials") from multiple devices/locations with non-concurrant login access ("different times"). You are not allowed to access the Scopeology content from multiple devices/locations concurrently (at the "same time"). Access of Scopeology services from multiple devices/locations concurrently will be defined as account sharing, and appropriate action will be taken as defined in the "Restriction Against Transfer" section of this agreement.
+
+Software Use Terms THE MATERIALS MAINTAINED ON THE SITE AND PROVIDED AS PART OF THE SERVICES, IN WHOLE OR IN PART, ARE THE SOLE AND EXCLUSIVE PROPERTY OF SCOPEOLOGY AND SHALL NOT BE REPLICATED, REPRODUCED, COPIED, DOWNLOADED REMOVED, OR OTHERWISE TRANSCRIBED. USER CANNOT RE-SELL SCOPEOLOGY CONTENT TO THIRD PARTIES, OR PREPARE DERIVATIVE WORKS OF SCOPEOLOGY CONTENT. USER SHALL NOT ACCESS OR USE LICENSED MATERIALS EXCEPT ON THE SITE FOR THE PURPOSES THEREIN SET FORTH. NOTHING IN THIS AGREEMENT SHALL BE DEEMED A LICENSE, AUTHORIZATION, OR GRANT TO RIGHTS TO COPY, DISSEMINATE, THE INFORMATION TO ANY OTHER FORUM OR MEDIA. All applicable works maintained on the site are subject to copyright, trade mark, service mark, and such other intellectual property rights as may apply from time to time.
+
+The Scopeology software is designed to access your computer system's clipboard during use. While a test is in progress, the Scopeology software shall disable all clipboard functions of your computer system (including, but not limited to, copy-paste-print and save-to-disk.
+
+While a test is in progress, you agree that you will not attempt, in any way, to copy or capture the contents of any test screen (including, but not limited to, via any original equipment manufacturers provided functionality or third-party applications). Scopeology reserves the right to disable your account without refund in the event that you copy or attempt to copy any Scopeology copyrighted content.
+
+The Scopeology software is designed to work on Windows and Macintosh, and it has been tested with a wide range of computer configurations; however, due to the rapidly evolving computer industry and unpredictability of various factors affecting computer systems, Scopeology does not guarantee the functionality of its software on every configuration, nor does Scopeology guarantee predictable behavior of the software in general. You recognize all of the above terms and accept that use of the Scopeology software on your system is done solely at your own risk.
+
+You agree that Scopeology will not be held liable for any damages to your devices, operating systems, and/or any data loss resulting from the direct or indirect use of the provided software.
+
+No refunds or cancellation will be honored due to your inability to use the provided software on any mobile device (regardless of whether or not the device meets the minimum system requirements).
+
+An internet connection is required while the software is in use, and a Wi-Fi internet connection with an unlimited data plan is highly recommended (both unlimited upload and unlimited download).
+
+If you use a fixed, limited, or pay-per-use data plan, you will be solely responsible for any data charges incurred. You agree that Scopeology will not be held liable for any data charges, overage fees, or any other miscellaneous fees or costs that result, directly or indirectly, from use of the software on your devices, including in the event of software malfunction.
+
+The Assessment Score is calculated by Scopeology based on its own proprietary algorithm. This is not intended to predict your performance on the actual Saudi Board Exam but is designed to help you assess relative strengths and weaknesses in different subjects and systems.
+
+In the event that your device is lost or stolen, you must notify Scopeology immediately so that we may disable access to the account. Any violations of these terms and conditions under your account will be treated as if you performed said actions, and you will be fully liable for any damages directly or indirectly resulting from said violations.
+
+Access via Mobile Devices Access to all services via certain mobile devices is provided, but it is not intended to be a replacement for computer access. Scopeology, at its sole discretion, may choose to discontinue offering access via any or all mobile devices at any time with or without reason or explanation.
+
+Access to Course Content
+
+You shall be allowed to use the Licensed Materials for the specific course(s) and material(s) to which you have subscribed. Each course has its own subscription fees and course duration. You are not allowed to access the content of courses to which you have not subscribed other than in a Demo Version.
+
+Usage of Scopeology subscriptions which is determined not to fall under reasonable use may result in action taken against the account, at Scopeology sole discretion. Subscription utilization that is indicative of, or arising from, impermissible business, multiple user, community, or fraudulent use may result in suspension or termination of the subscription in question. Scopeology may contact any user at any time to request clarification of a usage pattern which does not fall under reasonable use.
+
+Refunds & Cancellations
+
+Except as otherwise provided in this agreement or at the sole discretion of Scopeology, no refunds, cancellations, or changes to subscriptions will be allowed. Scopeology reserves the right to refuse a refund if the user is found to be in violation of Terms and Conditions or acting against Scopeology interest.
+
+Member Account/Password and Security You must complete Scopeology’s registration process in order to subscribe to and use the services by providing us with current, complete, and accurate information as prompted by the applicable registration form. You shall be responsible for the accuracy of the data provided and may update your profile data in order to reflect the most accurate current information. You will also choose a password. You are entirely responsible for maintaining the confidentiality of your password and account and for any and all activities that occur under your account. You agree to notify Scopeology immediately of any unauthorized use of your account or any other breach of security. Scopeology will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for losses incurred by Scopeology or another party due to someone else using your account or password.
+
+Ownership The licensed materials, including all intellectual property rights within the licensed materials (such as copyright) are the sole and exclusive property of Scopeology. By indicating that you accept these terms, you do not become the owner of the licensed materials, but are entitled to use them according to the terms of this agreement.
+
+Subscription Term
+
+You have obtained a limited, non-transferable right to use and access the Licensed Materials you have subscribed to for the subscription period unless an interval of maintenance downtime has been scheduled. At the end of this period, your right to use and access the Licensed Materials will expire automatically unless you renew your subscription under the current terms and conditions. The subscription will start immediately after the activation unless the User notifies Scopeology with a desired start date before using any part of the subscription. Subscription(s) cannot be suspended temporarily or reactivated later. The User must use the subscribed material within the subscription period and no free extensions are offered for any unused period. Renewals are offered as a continuation to current subscription term. Renewals are not offered for later use after expiration of current subscription. The User must renew the subscription prior to expiration and use it continuously. Renewal will only be provided to the course subscribed. Renewals allow the user to work for extended period on the existing test information. This agreement and your license to use the Licensed Materials will also terminate in Scopeology sole discretion, if you fail to comply with any term or condition in this agreement.
+
+Prohibitions You are expressly prohibited from copying, reverse engineering, or modifying any or all of the licensed materials. No part of the licensed materials may be copied for resale or other commercial use or offered for sale or reproduced on any bulletin boards, web sites, discussion forums, Internet domains, or online chatrooms. You may not use any device, software, or routine to interfere or attempt to interfere with the proper working of the site or any activity being conducted at the site. We retain the right to sue on grounds of breach of contract. You may not disclose or share your password with any third parties or use your password for any unauthorized purpose.
+
+Restriction Against Transfer You are not allowed to sublicense, assign, share, sell, rent, lease, or otherwise transfer your right to use the licensed materials. All accounts at Scopeology are monitored for multiple logins. In the event that Scopeology believes at its sole discretion that an account is being used by multiple users at the same time, Scopeology reserves the right to terminate that account without any notice or refund. We also retain the right to sue on grounds of breach of contract. Therefore, please do not disclose your account details to anyone else. Violations
+
+In the event that you breach any term of this agreement, Scopeology may, at its sole discretion, terminate this agreement, your access to the site, and its provision of services to you without refund. Scopeology reserves the right to seek all remedies available by law and in equity for such breaches.
+
+Marks The trademark, logo and service marks displayed on the site are the property of Scopeology. Users are prohibited from using any Scopeology marks without the written permission and consent of Scopeology. All content on the site is protected by copyright.
+
+Affiliation Scopeology is a commercial educational service provider for individuals who are preparing for the Saudi Board Exams. Scopeology is in no way affiliated with the Saudi Board Exam (SBE®), scientific council, educational Boards or any other official Saudi Commission for Health Specialties (SCFHS) organizations.
+
+No Warranties SCOPEOLOGY PROVIDES ITS SERVICES "AS IS" AND WITHOUT ANY WARRANTY OR CONDITION, EXPRESS, IMPLIED, OR STATUTORY. WE SPECIFICALLY DISCLAIM ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+Scopeology does not endorse, and is not responsible for, the accuracy or reliability of any opinion, advice, or statement made through the site by any party other than Scopeology. Other than as required under consumer protection law, under no circumstance will Scopeology be liable for any loss or damage caused by your reliance on information obtained through the site. It is your responsibility to evaluate the accuracy, completeness, or usefulness of any information, opinion, advice, or other content available through the site. Please seek the advice of professionals as appropriate regarding the evaluation of any specific information, opinion, advice, or other content.
+
+› The information provided in Scopeology is no substitute for individual patient assessment based upon the healthcare provider's examination of each patient and consideration of laboratory data and other factors unique to the patient
+
+› Scopeology should be used as a tool to help individuals prepare for various exams
+
+› Scopeology reserves the right to withdraw subscriptions and the complete site if necessary. If this ever becomes necessary, you will only pay for the time of your subscription that has elapsed (on a pro-rata basis)
+
+› Scopeology will use reasonable efforts to rectify any error that occurs on its site but does not guarantee access to the site in case of software errors/viruses/other natural or technical catastrophes that cannot be repaired in spite of a reasonable effort
+
+› Scopeology will use reasonable efforts to keep its site online at all times. You understand that scheduled maintenance and problems out of the control of Scopeology can cause the site to be temporarily unavailable
+
+Limitation of Liability Scopeology specifically disclaims any liability (whether based in contract, tort, strict liability, or otherwise) for any indirect, incidental, consequential, or special damages arising out of or in any way connected with access to or use of the site, this agreement, and our services, even if Scopeology has been advised of the possibility of such damages, including liability associated with any viruses, which may infect a user's computer equipment. Scopeology maximum liability arising out of or in connection with your use of its services and site, regardless of the cause of action (whether in contract, tort, breach of warranty or otherwise), will not exceed your subscription fee.
+
+Confidentiality of User Communications Except as required by law or for third parties (Promotions/Marketing) purposes, Scopeology will maintain the confidentiality of all user communications, which contain personal user information and which are transmitted directly to Scopeology. Your postings on any public arena, such as a message board or in any chat room, will not be protected as confidential, and Scopeology may use and disclose information contained in any such postings (including any ideas, concepts, know-how, or other intellectual property) for any purpose deemed appropriate by Scopeology.
+
+Linked Internet Sites Scopeology is not responsible for the content available on any other Internet sites linked to the site. Access to any other Internet sites linked to the site is at the user's own risk.
+
+Privacy & Policy
+
+We collect information when you access our website or use any of our services, The Information could be collected in any/all of the following ways;
+
+Information You Provide, when you register as a member or request information, we will use our registration and online enrollment forms to collect personally identifying information such as your full name, email address, telephone number, educational background, hospital information and credit card information ("personal data"). In addition, if you contact us via email or offline, we may collect the personal data that you voluntarily provide us at that time.
+
+You may choose to voluntarily submit other information to us through our services that we do not request and, in such instances, you are solely responsible for such information.
+
+Information Collected Automatically, for each visitor to our website, our server automatically records IP (Internet Protocol) address, browser type, operating system, domain name, access times, and referring website addresses. For users interacting with our services, we may also collect various information using different types of technologies. This information includes:
+
+1. Type of subscription and your interactions with our Service. 2. Details of the queries you make, and the date and time of your request. 3. Any content (as defined previously) you post to the Service including answer responses, notes and messages send and/or receive via the Service. 4. Technical data, which may include URL information, cookies, your IP address, the types of devices you are using to access or connect to our Service, unique device ID, device attributes, network and device performance, browser type, language and operating system. 5. Location data based on your IP address. Scopeology may use third-party applications to look up location based on your IP address.
+
+How We Use Collected Information
+
+We may use any information collected, including personal information:
+
+1. To complete, perform, and support the activity for which the information was provided. 2. To improve the content of our website or services. 3. To develop new products and services, and analyze your use of the Service, including your interaction with applications, products, and services that are made available, linked to, or offered through the Service. 4. To customize the content and/or layout of our website for you. 5. To notify you about updates to our website. 6. To contact you for marketing purposes. 7. To process your payment or prevent or detect fraud. 8. To enforce this Privacy Policy, the Terms and Conditions of Use, and any other terms to which you have agreed including to protect the rights, property, or safety of Scopeology, its users, or any other person, or the copyright-protected content of the Service. 9. As otherwise stated in this Privacy Policy.
+
+We may also use or disclose the personal information for its business purposes, including: • Secure our network and our website. • Conduct audits related to our current interactions with you • Debug the site and service to identify and repair errors that impair existing intended functionality. • Undertake activities to verify or maintain the quality or safety of a service or good that is owned, manufactured, manufactured for, or controlled by Scopeology, and to improve, enhance or update them. • Perform services on behalf of Scopeology, including maintaining or servicing your account and providing customer service.
+
+Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online or with regard to technical, billing, or product-related issues when deemed necessary.
+
+The information might be disclosed to third parties (Promotions/Marketing) unless you have requested not to do so. We are committed to protecting your personal information. The categories of personal information that we used, transferred, exchanged, or disclosed (including to third parties) about consumers are: (a) identifiers; (b) personal information; (c) classification data; (d) commercial information; (e) internet activity; (f) geolocation data; and (g) inferences. The categories of personal information that we disclosed about consumers for a business purpose are (a) identifiers; (b) personal information; (c) classification data; (d) commercial information; (e) internet activity; (f) geolocation data; and (g) inferences.
+
+Registering with Scopeology makes you eligible to receive our future offers and promotions.
+
+Transmission of Personal Data
+
+The user acknowledges and agrees that by providing Scopeology any information through the website, the user automatically consents to the transmission of such personal or proprietary user information over international borders, as necessary, for processing in accordance with Scopeology standard business practices.
+
+Update Personal Information
+
+You can review and update your personal information along with other preferences from the “Profile” section of the website at all times (subject to availability). Upon request, we offer users the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, and transaction information. Users can have this information corrected by sending an email to Info@Scopeology.com You can also request to have any personal information, not relevant to the original purpose for which it was collected, removed by writing to us at the above email.
+
+Terms & Conditions Changes
+
+We may periodically update our Privacy Policy/Terms & Conditions. All changes will be posted on this website to reflect that change. We may also show notifications/updates within our products/services to inform you about such changes. Continuing to use the product after the change is effective implies agreement with the terms and conditions. If you disagree with any of the changes, you must cease using our services and write to us at Info@Scopeology.com.
+
+Should you have any questions regarding this agreement, you may Contact Us at any time.
